@@ -1,9 +1,9 @@
 class Instructor:
     def __init__(self):
-        self.__instructor_name= "Krish"
+        self.__instructor_name= "Prakhar"
         self.__experience=2
         self.__avg_feedback=4.6
-        self.__technology_skill="Java"
+        self.__technology_skill="Python"
             
     def set_technology_skill(self, technology_skill):
             self.__technology_skill= technology_skill
@@ -43,6 +43,6 @@ class Instructor:
         else:
             return False
 
-Krish=Instructor()
-print(Krish.allocate_course("Java"))
-print(Krish.check_eligibility())
+Yush=Instructor()
+print(Yush.allocate_course("Python"))
+print(Yush.check_eligibility())
