@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ff9bb01-5182-4a04-826b-43d117a462dc" name="Default" comment="" />
+    <list default="true" id="8ff9bb01-5182-4a04-826b-43d117a462dc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +29,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TqBDpGlfiPxLHevY2aWCt9l0i9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,7 +42,7 @@
     <property name="SearchEverywhereHistoryKey" value="font size&#9;ACTION&#9;EditorIncreaseFontSize&#10;font&#9;ACTION&#9;EditorIncreaseFontSize" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -45,28 +53,7 @@
       <recent name="G:\workshop\ImportantAlgorithms\Searching_Algorithms\Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Usain_Bolt_VS_Tiger">
-    <configuration name="Breaking_Bricks_January_Challenge_2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Competetive Programming/Code_Chef" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Competetive Programming/Code_Chef/Breaking_Bricks_January_Challenge_2020.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Problem-3">
     <configuration name="Chef_and_Dynamo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Count_of_n-digit_number_Whose_sum_of_digits_equals_to_given_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interesting_Codes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interesting_Codes/Count_of_n-digit_number_Whose_sum_of_digits_equals_to_given_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Recuit_Villagers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +104,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Competetive Programming/Code_Chef" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Competetive Programming/Code_Chef/Recuit_Villagers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Problem-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,19 +160,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Breaking_Bricks_January_Challenge_2020" />
       <item itemvalue="Python.Chef_and_Dynamo" />
-      <item itemvalue="Python.Count_of_n-digit_number_Whose_sum_of_digits_equals_to_given_sum" />
-      <item itemvalue="Python.Recuit_Villagers" />
       <item itemvalue="Python.Usain_Bolt_VS_Tiger" />
+      <item itemvalue="Python.Problem-1" />
+      <item itemvalue="Python.Problem-2" />
+      <item itemvalue="Python.Problem-3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Problem-3" />
+        <item itemvalue="Python.Problem-2" />
+        <item itemvalue="Python.Problem-1" />
         <item itemvalue="Python.Usain_Bolt_VS_Tiger" />
         <item itemvalue="Python.Chef_and_Dynamo" />
-        <item itemvalue="Python.Count_of_n-digit_number_Whose_sum_of_digits_equals_to_given_sum" />
-        <item itemvalue="Python.Breaking_Bricks_January_Challenge_2020" />
-        <item itemvalue="Python.Recuit_Villagers" />
       </list>
     </recent_temporary>
   </component>
@@ -193,40 +201,49 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/InfyTQ/Fundaments_of_Python_Problems_LevelWise" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1578892666236">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1578985130582">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578892666236" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578985130582" />
     <state width="1345" height="146" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1578892666236">
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1578985130579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578892666236" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578985130579" />
     <state width="1345" height="146" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1578892666236">
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1578985130579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578892666236" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578985130579" />
     <state width="1345" height="146" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1578892666236">
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1578985130582">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578892666236" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578985130582" />
     <state width="1345" height="146" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state x="184" y="7" key="SettingsEditor" timestamp="1578982818317">
+    <state x="391" y="76" key="RollbackChangesDialog" timestamp="1578983640002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578982818317" />
+    <state x="391" y="76" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578983640002" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1578983781249">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578983781249" />
     <state x="379" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1578974241873">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578974241873" />
     <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1578327536839" />
-    <state x="346" y="84" width="672" height="643" key="search.everywhere.popup" timestamp="1578814441352">
+    <state x="346" y="84" width="672" height="643" key="search.everywhere.popup" timestamp="1578983762863">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="84" width="672" height="643" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578814441352" />
+    <state x="346" y="84" width="672" height="643" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578983762863" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1577545637634" />
   </component>
   <component name="debuggerHistoryManager">
