@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import string
 
 alphaLower = string.ascii_lowercase
@@ -55,7 +54,7 @@ new = c_cipher(message, encrypt_key)
 print ("Your Encrypted message is :- {}".format(new))
 print ("Your Decrypted Message is :- {}".format(c_cipher(new, -1 * encrypt_key)))
 
-=======
+# =======
 import string
 
 alphaLower = string.ascii_lowercase
@@ -112,4 +111,4 @@ new = c_cipher(message, encrypt_key)
 print ("Your Encrypted message is :- {}".format(new))
 print ("Your Decrypted Message is :- {}".format(c_cipher(new, -1 * encrypt_key)))
 
->>>>>>> Python repo committed
+# >>>>>>> Python repo committed

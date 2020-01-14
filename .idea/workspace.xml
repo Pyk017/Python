@@ -20,7 +20,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/InfyTQ/Fundaments_of_Python_Problems_LevelWise" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TqBDpGlfiPxLHevY2aWCt9l0i9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -34,7 +34,7 @@
     <property name="SearchEverywhereHistoryKey" value="font size&#9;ACTION&#9;EditorIncreaseFontSize&#10;font&#9;ACTION&#9;EditorIncreaseFontSize" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -214,10 +214,10 @@
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578892666236" />
     <state width="1345" height="146" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state x="184" y="7" key="SettingsEditor" timestamp="1578671652683">
+    <state x="184" y="7" key="SettingsEditor" timestamp="1578982818317">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578671652683" />
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578982818317" />
     <state x="379" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1578974241873">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
