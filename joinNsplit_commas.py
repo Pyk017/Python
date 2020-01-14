@@ -1,0 +1,5 @@
+a = input("Enter a String :- ")
+a = a.split(',')
+a = sorted(a)
+a = ','.join(a)
+print (a)

@@ -1,0 +1,6 @@
+n = int(input("Enter Number :- "))
+option = input("Enter Option :- Even or Odd\n")
+n = list(map(int, str(n)))
+even = sum(list(filter(lambda x: x%2 == 0, n)))
+odd = sum(list(filter(lambda x: x%2 != 0, n)))
+print ("Your Answer is :- {}".format(even)) if "even" in option.lower() else print("Your Answer is :- {}".format(odd))
