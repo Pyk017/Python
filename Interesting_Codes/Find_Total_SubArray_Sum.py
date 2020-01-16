@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# <<<<<<< HEAD
 def sub_array(ar, w):
     n = len(ar)
     ls = [[0 for _ in range(w+1)] for _ in range(n+1)]
@@ -22,7 +22,9 @@ array = list(map(int, input("Enter array elements :- ").split()))
 k = int(input("Enter Sum :- "))
 result = sub_array(array, k)
 print(result)
-=======
+# =======
+
+
 def sub_array(ar, w):
     n = len(ar)
     ls = [[0 for _ in range(w+1)] for _ in range(n+1)]
@@ -46,4 +48,4 @@ array = list(map(int, input("Enter array elements :- ").split()))
 k = int(input("Enter Sum :- "))
 result = sub_array(array, k)
 print(result)
->>>>>>> Python repo committed
+# >>>>>>> Python repo committed

@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ff9bb01-5182-4a04-826b-43d117a462dc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interesting_Codes/Print_All_Substrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Student_Scores.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interesting_Codes/Find_Total_SubArray_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interesting_Codes/Find_Total_SubArray_Sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +52,8 @@
       <recent name="G:\workshop\ImportantAlgorithms\Searching_Algorithms\Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Problem-46">
-    <configuration name="Problem-29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Print_All_Substrings">
+    <configuration name="End_of_Corruption" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Competetive Programming/Code_Chef" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-29.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Competetive Programming/Code_Chef/End_of_Corruption.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem-31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Full_Barrier_Allchemist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Competetive Programming/Code_Chef" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-31.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Competetive Programming/Code_Chef/Full_Barrier_Allchemist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem-37" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Print_All_Substrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interesting_Codes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-37.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interesting_Codes/Print_All_Substrings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem-38" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Competetive Programming/Code_Chef" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-38.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Competetive Programming/Code_Chef/Reverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem-46" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="The_Promised_Land" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Competetive Programming/Code_Chef" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level1/Problem-46.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Competetive Programming/Code_Chef/The_Promised_Land.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,19 +159,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Problem-29" />
-      <item itemvalue="Python.Problem-31" />
-      <item itemvalue="Python.Problem-37" />
-      <item itemvalue="Python.Problem-38" />
-      <item itemvalue="Python.Problem-46" />
+      <item itemvalue="Python.The_Promised_Land" />
+      <item itemvalue="Python.Reverse" />
+      <item itemvalue="Python.Full_Barrier_Allchemist" />
+      <item itemvalue="Python.End_of_Corruption" />
+      <item itemvalue="Python.Print_All_Substrings" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Problem-46" />
-        <item itemvalue="Python.Problem-38" />
-        <item itemvalue="Python.Problem-37" />
-        <item itemvalue="Python.Problem-31" />
-        <item itemvalue="Python.Problem-29" />
+        <item itemvalue="Python.Print_All_Substrings" />
+        <item itemvalue="Python.End_of_Corruption" />
+        <item itemvalue="Python.Full_Barrier_Allchemist" />
+        <item itemvalue="Python.Reverse" />
+        <item itemvalue="Python.The_Promised_Land" />
       </list>
     </recent_temporary>
   </component>
@@ -226,25 +206,29 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1579073440885">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1579093591147">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579073440885" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579093591147" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1579156067222">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579156067222" />
     <state width="1345" height="146" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1579073440885">
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1579156067222">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579073440885" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579156067222" />
     <state width="1345" height="146" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1579073440885">
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1579156067222">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579073440885" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579156067222" />
     <state width="1345" height="146" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1579073440885">
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1579156067222">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579073440885" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579156067222" />
     <state width="1345" height="146" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
     <state x="391" y="76" key="RollbackChangesDialog" timestamp="1578983640002">
       <screen x="0" y="0" width="1366" height="728" />
@@ -254,10 +238,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578983781249" />
-    <state x="379" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1579066379653">
+    <state x="379" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1579148365939">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579066379653" />
+    <state x="379" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579148365939" />
     <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1578327536839" />
     <state x="346" y="84" width="672" height="643" key="search.everywhere.popup" timestamp="1578983762863">
       <screen x="0" y="0" width="1366" height="728" />
