@@ -1,0 +1,6 @@
+1 This is an arbitrary file.
+2 This is of just practice use.
+3 Used for Problem-30.
+4 Basically used during handling with file system.
+5 If in case it will deleted then that code in Problem-30 will not work fine.
+6 So Handle-it-Care Category comes for this file.
