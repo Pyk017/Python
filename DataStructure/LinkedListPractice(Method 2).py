@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class Node:
     def __init__(self,data=None):
         self.data = data
@@ -31,7 +30,7 @@ listlist.insert("Kumar")
 listlist.insert("Kashyap")
 listlist.insert(89)
 listlist.insert(90)
-=======
+
 class Node:
     def __init__(self,data=None):
         self.data = data
@@ -64,5 +63,5 @@ listlist.insert("Kumar")
 listlist.insert("Kashyap")
 listlist.insert(89)
 listlist.insert(90)
->>>>>>> Python repo committed
+
 listlist.display()

@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ff9bb01-5182-4a04-826b-43d117a462dc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview_Questions(Coding_Club_PSIT)/Equillibrium_Index_in_Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview_Questions(Coding_Club_PSIT)/Largest_Number_Method2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview_Questions(Coding_Club_PSIT)/Print_All_Prime_Factors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview_Questions(Coding_Club_PSIT)/Largest_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview_Questions(Coding_Club_PSIT)/Largest_Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/LinkedListPractice(Method 2).py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/LinkedListPractice(Method 2).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,25 +208,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579158751474" />
-    <state width="1345" height="176" key="GridCell.Tab.0.bottom" timestamp="1579361269243">
+    <state width="1345" height="176" key="GridCell.Tab.0.bottom" timestamp="1579362166902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579361269243" />
+    <state width="1345" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579362166902" />
     <state width="1345" height="146" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state width="1345" height="176" key="GridCell.Tab.0.center" timestamp="1579361269243">
+    <state width="1345" height="176" key="GridCell.Tab.0.center" timestamp="1579362166902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579361269243" />
+    <state width="1345" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579362166902" />
     <state width="1345" height="146" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state width="1345" height="176" key="GridCell.Tab.0.left" timestamp="1579361269243">
+    <state width="1345" height="176" key="GridCell.Tab.0.left" timestamp="1579362166902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579361269243" />
+    <state width="1345" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579362166902" />
     <state width="1345" height="146" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state width="1345" height="176" key="GridCell.Tab.0.right" timestamp="1579361269243">
+    <state width="1345" height="176" key="GridCell.Tab.0.right" timestamp="1579362166902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579361269243" />
+    <state width="1345" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579362166902" />
     <state width="1345" height="146" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
     <state x="391" y="76" key="RollbackChangesDialog" timestamp="1578983640002">
       <screen x="0" y="0" width="1366" height="728" />
@@ -244,10 +236,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578983781249" />
-    <state x="379" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1579326660189">
+    <state x="379" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1579422211492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579326660189" />
+    <state x="379" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579422211492" />
     <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1578327536839" />
     <state x="346" y="84" width="672" height="643" key="search.everywhere.popup" timestamp="1579252193357">
       <screen x="0" y="0" width="1366" height="728" />
