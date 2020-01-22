@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ff9bb01-5182-4a04-826b-43d117a462dc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Prakhar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/Number_of_Binary_Tree_Possible.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/TreeDoubleOrderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-34.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/LinkedListPractice(Method 2).py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/LinkedListPractice(Method 2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/TreeBreadthFirstTraversalApproach01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/TreeBreadthFirstTraversalApproach01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/TreeBreadthFirstTraversalApproach02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/TreeBreadthFirstTraversalApproach02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/TreeLinkedListImplementationIterative.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/TreeLinkedListImplementationIterative.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/TreeLinkedListImplementationIterative02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/TreeLinkedListImplementationIterative02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/TreeLinkedListImplementationRecursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/TreeLinkedListImplementationRecursive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/TreeSearchingOperationRecursiveApproach.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/TreeSearchingOperationRecursiveApproach.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interesting_Codes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Interesting_Codes/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +47,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="font size&#9;ACTION&#9;EditorIncreaseFontSize&#10;font&#9;ACTION&#9;EditorIncreaseFontSize" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ImportantAlgorithms/Sorting_Algorithms/Python/CountingSort.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-32.py" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -50,8 +62,8 @@
       <recent name="G:\workshop\Python\OOPs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Problem-32">
-    <configuration name="Problem-13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Problem-34">
+    <configuration name="Number_of_Binary_Tree_Possible" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,74 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-13.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem-16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-16.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem-21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-21.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem-30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-30.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/Number_of_Binary_Tree_Possible.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,20 +105,83 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Problem-33" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-33.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Problem-34" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-34.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TreeDoubleOrderTraversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/TreeDoubleOrderTraversal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Problem-13" />
-      <item itemvalue="Python.Problem-16" />
-      <item itemvalue="Python.Problem-21" />
-      <item itemvalue="Python.Problem-30" />
+      <item itemvalue="Python.Number_of_Binary_Tree_Possible" />
+      <item itemvalue="Python.TreeDoubleOrderTraversal" />
       <item itemvalue="Python.Problem-32" />
+      <item itemvalue="Python.Problem-33" />
+      <item itemvalue="Python.Problem-34" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Problem-34" />
+        <item itemvalue="Python.Problem-33" />
         <item itemvalue="Python.Problem-32" />
-        <item itemvalue="Python.Problem-30" />
-        <item itemvalue="Python.Problem-21" />
-        <item itemvalue="Python.Problem-16" />
-        <item itemvalue="Python.Problem-13" />
+        <item itemvalue="Python.Number_of_Binary_Tree_Possible" />
+        <item itemvalue="Python.TreeDoubleOrderTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -204,30 +216,51 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1579158751474">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="275" y="44" key="#Updates" timestamp="1579704474925">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="44" key="#Updates/0.0.1366.768@0.0.1366.768" timestamp="1579704474925" />
+    <state x="463" y="127" key="FileChooserDialogImpl" timestamp="1579704807313">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579158751474" />
-    <state width="1345" height="176" key="GridCell.Tab.0.bottom" timestamp="1579362166902">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="463" y="127" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1579704807313" />
+    <state width="1345" height="188" key="GridCell.Tab.0.bottom" timestamp="1579708674441">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579362166902" />
-    <state width="1345" height="146" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state width="1345" height="176" key="GridCell.Tab.0.center" timestamp="1579362166902">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1345" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1579708674441" />
+    <state width="1345" height="188" key="GridCell.Tab.0.center" timestamp="1579708674439">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579362166902" />
-    <state width="1345" height="146" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state width="1345" height="176" key="GridCell.Tab.0.left" timestamp="1579362166902">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1345" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1579708674439" />
+    <state width="1345" height="188" key="GridCell.Tab.0.left" timestamp="1579708674439">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579362166902" />
-    <state width="1345" height="146" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
-    <state width="1345" height="176" key="GridCell.Tab.0.right" timestamp="1579362166902">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1345" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1579708674439" />
+    <state width="1345" height="188" key="GridCell.Tab.0.right" timestamp="1579708674439">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579362166902" />
-    <state width="1345" height="146" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578331193309" />
+    <state width="1345" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1579708674439" />
+    <state width="1345" height="239" key="GridCell.Tab.1.bottom" timestamp="1579540831650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="239" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1579540831650" />
+    <state width="1345" height="239" key="GridCell.Tab.1.center" timestamp="1579540831650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="239" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1579540831650" />
+    <state width="1345" height="239" key="GridCell.Tab.1.left" timestamp="1579540831650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="239" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1579540831650" />
+    <state width="1345" height="239" key="GridCell.Tab.1.right" timestamp="1579540831650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="239" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1579540831650" />
     <state x="391" y="76" key="RollbackChangesDialog" timestamp="1578983640002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -236,16 +269,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578983781249" />
-    <state x="379" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1579422211492">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1579704761364">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="379" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579422211492" />
-    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1578327536839" />
-    <state x="346" y="84" width="672" height="643" key="search.everywhere.popup" timestamp="1579252193357">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1579704761364" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579707757828">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="346" y="84" width="672" height="643" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579252193357" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1577545637634" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1579707757828" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
