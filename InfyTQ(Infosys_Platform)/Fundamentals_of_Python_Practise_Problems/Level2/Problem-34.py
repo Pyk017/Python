@@ -20,7 +20,7 @@ input item	                                list label
 
 def check_well_formatted(input_list, list_label):
     if type(input_list) is not list and len(input_list) < 2 and input_list[0] not in list_label and \
-            (not check_well_formatted(input_list[1:] or all(list(map(lambda x: x == str(x), input_list[1:]))))):
+            (not check_well_formatted(input_list[1:], list_label) or all(list(map(lambda x: x == str(x), input_list[1:])))):
         return False
 
     return True

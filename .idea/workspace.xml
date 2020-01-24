@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ff9bb01-5182-4a04-826b-43d117a462dc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Prakhar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/Number_of_Binary_Tree_Possible.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/TreeDoubleOrderTraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Level-35.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/TreeBreadthFirstTraversalApproach01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/TreeBreadthFirstTraversalApproach01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/TreeBreadthFirstTraversalApproach02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/TreeBreadthFirstTraversalApproach02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/TreeLinkedListImplementationIterative.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/TreeLinkedListImplementationIterative.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/TreeLinkedListImplementationIterative02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/TreeLinkedListImplementationIterative02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/TreeLinkedListImplementationRecursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/TreeLinkedListImplementationRecursive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/TreeSearchingOperationRecursiveApproach.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/TreeSearchingOperationRecursiveApproach.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interesting_Codes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Interesting_Codes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-34.py" beforeDir="false" afterPath="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-34.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="font size&#9;ACTION&#9;EditorIncreaseFontSize&#10;font&#9;ACTION&#9;EditorIncreaseFontSize" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/InfyTQ(Infosys_Platform)/Fundamentals_of_Python_Practise_Problems/Level2/Problem-32.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Competetive Programming/Code_Chef/Chef_and_Dynamo.py" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -62,8 +52,8 @@
       <recent name="G:\workshop\Python\OOPs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Problem-34">
-    <configuration name="Number_of_Binary_Tree_Possible" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.XOR_Segment">
+    <configuration name="Jolites" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Competetive Programming/Code_Chef" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/Number_of_Binary_Tree_Possible.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Competetive Programming/Code_Chef/Jolites.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TreeDoubleOrderTraversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="XOR_Segment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Competetive Programming/Code_Chef" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/TreeDoubleOrderTraversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Competetive Programming/Code_Chef/XOR_Segment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,19 +159,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Number_of_Binary_Tree_Possible" />
-      <item itemvalue="Python.TreeDoubleOrderTraversal" />
       <item itemvalue="Python.Problem-32" />
       <item itemvalue="Python.Problem-33" />
       <item itemvalue="Python.Problem-34" />
+      <item itemvalue="Python.Jolites" />
+      <item itemvalue="Python.XOR_Segment" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.XOR_Segment" />
+        <item itemvalue="Python.Jolites" />
         <item itemvalue="Python.Problem-34" />
         <item itemvalue="Python.Problem-33" />
         <item itemvalue="Python.Problem-32" />
-        <item itemvalue="Python.Number_of_Binary_Tree_Possible" />
-        <item itemvalue="Python.TreeDoubleOrderTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -220,31 +210,31 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="44" key="#Updates/0.0.1366.768@0.0.1366.768" timestamp="1579704474925" />
-    <state x="463" y="127" key="FileChooserDialogImpl" timestamp="1579704807313">
+    <state x="463" y="127" key="FileChooserDialogImpl" timestamp="1579790650774">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579158751474" />
-    <state x="463" y="127" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1579704807313" />
-    <state width="1345" height="188" key="GridCell.Tab.0.bottom" timestamp="1579708674441">
+    <state x="463" y="127" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1579790650774" />
+    <state width="1345" height="188" key="GridCell.Tab.0.bottom" timestamp="1579797402261">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579362166902" />
-    <state width="1345" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1579708674441" />
-    <state width="1345" height="188" key="GridCell.Tab.0.center" timestamp="1579708674439">
+    <state width="1345" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1579797402261" />
+    <state width="1345" height="188" key="GridCell.Tab.0.center" timestamp="1579797402261">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579362166902" />
-    <state width="1345" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1579708674439" />
-    <state width="1345" height="188" key="GridCell.Tab.0.left" timestamp="1579708674439">
+    <state width="1345" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1579797402261" />
+    <state width="1345" height="188" key="GridCell.Tab.0.left" timestamp="1579797402261">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579362166902" />
-    <state width="1345" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1579708674439" />
-    <state width="1345" height="188" key="GridCell.Tab.0.right" timestamp="1579708674439">
+    <state width="1345" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1579797402261" />
+    <state width="1345" height="188" key="GridCell.Tab.0.right" timestamp="1579797402261">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579362166902" />
-    <state width="1345" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1579708674439" />
+    <state width="1345" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1579797402261" />
     <state width="1345" height="239" key="GridCell.Tab.1.bottom" timestamp="1579540831650">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -269,11 +259,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578983781249" />
-    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1579704761364">
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1579790626104">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="379" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579422211492" />
-    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1579704761364" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1579790626104" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579707757828">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
