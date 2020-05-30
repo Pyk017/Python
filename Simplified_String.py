@@ -1,3 +1,9 @@
+# Write recursive function simplified(string) that returns a string similar to the input string but with all consecutive duplicates characters removed.
+# For Example : simplified('AABBCCCBBDD')
+# ANS: 'ABCBD'
+# simplified('GGABAA')
+# ANS: 'GABA'
+
 def simplified(s, res = []):
     if len(s) == 1:
         res.append(s[0])
