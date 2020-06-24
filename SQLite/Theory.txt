@@ -1,0 +1,29 @@
+SQLite
+
+What is SQLite?
+SQLite is a software in which we write SQL queries. 
+It is a light weight, no network access and embedded relational database type of software in which we execute sql.
+
+Why?
+My SQL, Oracle and Postgres, these are client-server DBMS. where SQLiter is a stand alone DBMS.
+Today is the era of Internet of Things, everywhere internet is enabled in everything, ex. Fans, AC, watches, TV.
+So, If a small amount of data is stored in a dbms, for this small data we can not have a mass database installed in system, like Oracle, MySQL
+Thus this data is being executed and used using SQLite DBMS, which is light weight.
+
+Where?
+It is used anywhere like building a website, but the problem is the website is getting thousands of data then it require huge traffice over
+network then it is not useful.
+If we are building a software for AC, Fridge, we can use SQLite there.
+
+SQLite is extremely useful when you need some database functionality and dont want to use a full-fledged database like my SQL and Postgres, 
+so we can use sqlite for small to medium sized applications where your database is just gonna live on disk or you can use it for testing and
+prototyping of an application .
+
+SQLite is a part of standard library so there's no need to exteranlly install anything.
+
+Data types :
+1. NULL : The value is a Null value.
+2. INTEGER : The value is a signed Integer, stored in 1, 2, 3, 4, 6,  or 8 bytes depending on the magnitude of the value.
+3. REAL : The value is a floating point value, stored as an 8-byte IEEE floating point number.
+4. TEXt : The value is a text string, stored using the database encoding(UTF-8, UTF-16BE OR UTF-16LE).
+5. BLOB : The value is a blob of data, stored exactly as it was input.
