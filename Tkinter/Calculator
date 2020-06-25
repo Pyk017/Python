@@ -1,0 +1,6 @@
+							Build a Simple Calculator (Part - 1)
+						
+To change the title 
+root = Tk()
+
+root.title("Simple Calculator")

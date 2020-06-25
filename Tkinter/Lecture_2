@@ -1,0 +1,13 @@
+						Positioning with Tkinter's Grid System
+						
+For using grid system.
+myLabel.grid(row=0, column=0)  # using .grid() method with position at row0, column0.
+
+cannot be resized as it did before.
+Changes are relative.
+
+
+can also be written like 
+mylabel = Label(root, text="hello").grid(row=0, column=1)
+mylabel2 = Label(root, text='World!').grid(row=1, column=0)
+ 

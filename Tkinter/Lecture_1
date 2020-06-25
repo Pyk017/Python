@@ -1,0 +1,21 @@
+To import Tkinter module 
+we need to import the tkinter class
+example : from tkinter import * 		to import every module present to tkinter class
+
+then create a object 
+say, root = tk()
+
+And, to create anything in tkinter, it is a two step process.
+1. initially create that thing or define a thing
+2. and then put it on the screen
+
+let create a label widget.
+myLabel = Label(root, text='Hello World!')  # creating done 
+
+# now to put it in the window.
+myLabel.pack()		# packing method (many more mthods are present)
+
+In Gui , we have a program running that is constantly looping that is how it figures out what is actually
+happening in the application.
+
+root.mainloop()		# this is the loop or we call main loop of the application. 

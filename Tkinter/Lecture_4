@@ -1,0 +1,22 @@
+						Creating Input Fields in Tkinter
+						
+To input data 
+we use : Entry()
+
+e = Entry(root)
+e.pack()
+
+Some parameters are :- 
+1. width
+
+e =Entry(root, width=50)
+
+2. bg, fg, borderwidth
+
+e = Entry(root, width=50, bg='blue', fg='white', borderwidth=5)
+
+To get the data to the code from gui application. We use .get() method to do so.
+e.get()
+
+To put some default text inside the box then,
+e.insert(0, "Enter Your Name :- ")

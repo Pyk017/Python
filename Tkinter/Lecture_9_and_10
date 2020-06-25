@@ -1,0 +1,5 @@
+Image Viewer Application
+Adding a Status Bar to the Image Viewer Application
+			use of bd(border, widget of Label) and relief=SUNKEN(another widget of Label to sunken means deep down look of status bar).
+			use of sticky = W + E (grid widget, used to stretch the status bar)
+			use of anchor = E (Label widget, used to postition the content to the East direction of right)

@@ -1,0 +1,19 @@
+					Using Icons, Images, and Exit Buttons.
+					
+Icons :
+root = Tk()
+root.iconbitmap('Address of icon')
+
+Exit Button :
+button_quit = Button(root, text="Exit Program", command = root.quit)
+
+Images  We need to install some library to put image on the windows:
+libraries are :- PIL (Python Imaging Library) containing various modules like ImageTK, Image, ImageColor.
+from PIL import ImageTk, Image 
+# pip install Pillow to install the Pillow library
+
+my_image = ImageTk.PhotoImage(Image.open("Address of the Image."))
+my_label = Label(image=my_image)
+my_label.pack()
+
+

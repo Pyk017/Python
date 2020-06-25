@@ -1,0 +1,27 @@
+					Creating Buttons with Tkinter
+					
+Everything in tkinter is a widget.
+to create a button 
+
+myButton = Button(root, text="Click ME") # Initiation
+myButton.pack() # putting it on the window.
+
+one more argument in Button() is STATE
+myButton = Button(root, text="Click ME", state=DISABLED) # to create a non-clickable button
+
+one more argument is PADX, PADY
+myButton = Button(root, text="Click ME", padx=10, pady=20)
+
+now we want our button to do something. we create a normal function.
+
+def myClick():
+	myLabel = Label(root, text="Look! I clicked a Button.").pack()
+	
+to call this function. 
+one more argument is used that is COMMAND
+
+myButton = Button(root, text="Click ME", command=myClick)
+
+To change the color of the button.
+FG use to change to the color of foreground color of the button.
+BG to change the color of the background.
