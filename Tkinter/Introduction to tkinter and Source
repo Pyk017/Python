@@ -1,0 +1,53 @@
+Tkinter is a Python library for making Graphical User Interface (GUI) application in Python.
+Learning Tkinter through Youtube Channel Codemy.com and with practice essentially.
+Video series of total 37 videos.
+
+
+
+
+
+
+
+
+#!/bin/python3
+
+import os
+import sys
+from itertools import combinations
+
+# Complete the solve function below.
+def solve(a, k):
+    n = len(a)
+    left, right, ans = 1, 1, 0
+    a.sort()
+    if k == 1:
+        return 0
+    for i in range(1, k):
+        right = right * (n - i) / i
+        
+    for i in range(n):
+        if i >= k-1:
+            ans = ans + a[i] * left
+            left = left * (i+1) / (i-k+2)
+        if i <= n-k:
+            ans = ans - a[i] * right
+            right = right * (n-i-k) / (n-i-1)
+    ans %= 10**9 + 7
+    return int(ans)
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    nk = input().split()
+
+    n = int(nk[0])
+
+    k = int(nk[1])
+
+    balls = list(map(int, input().rstrip().split()))
+
+    result = solve(balls, k)
+
+    fptr.write(str(result) + '\n')
+
+    fptr.close()
