@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 root = Tk()
 root.title("Message Box")
-root.iconbitmap("G:\Tkinter\Images\MyIcon.ico")
+# root.iconbitmap("G:\Tkinter\Images\MyIcon.ico")
 
 #    Types of message boxes.
 # showinfo = returns "ok" when clicked ok,
@@ -15,7 +15,7 @@ root.iconbitmap("G:\Tkinter\Images\MyIcon.ico")
 
 
 def clickable():
-    temp = messagebox.askokcancel("Message Box", "This is a showinfo Message Box!")
+    temp = messagebox.showerror("Message Box", "This is a showinfo Message Box!")
     print(type(temp), temp)
     myLabel = Label(root, text=temp).pack()
 
